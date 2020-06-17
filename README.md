@@ -39,7 +39,6 @@ Follow these guidelines for committing:
 
 * Don't commit half done work, for the sake of your collaborators (and your future self!)
 
-* Test your application before you commit to ensure functionality at every step in the development process
 
 We would like you to have well over 200 commits by graduation, so commit early and often!
 
